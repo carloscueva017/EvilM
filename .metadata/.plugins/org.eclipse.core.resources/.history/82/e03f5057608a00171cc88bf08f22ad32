@@ -1,0 +1,13 @@
+package tads;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Fecha cabildo = new Fecha(1810, 5, 25);
+	}
+	
+	
+}

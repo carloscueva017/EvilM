@@ -1,0 +1,10 @@
+package tads;
+
+public class Main {
+
+	static void main(String args, int a) {
+		
+	}
+	
+	
+}

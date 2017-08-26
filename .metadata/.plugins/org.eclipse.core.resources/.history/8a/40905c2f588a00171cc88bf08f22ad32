@@ -1,0 +1,9 @@
+package tads;
+
+public class MainS {
+
+	public static void main(String[] args) {
+
+	}
+	
+}

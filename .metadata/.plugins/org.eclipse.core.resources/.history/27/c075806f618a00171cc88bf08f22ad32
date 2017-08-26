@@ -1,0 +1,15 @@
+package tads.fecha;
+
+public class Fecha {
+
+	public final int año;
+	public final int mes;
+	public final int dia;
+
+	public Fecha(int año, int mes, int dia) {
+		this.año = año;
+		this.mes = mes;
+		this.dia = dia;
+	}
+
+}

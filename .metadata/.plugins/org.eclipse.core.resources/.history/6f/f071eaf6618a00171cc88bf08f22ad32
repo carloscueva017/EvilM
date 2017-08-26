@@ -1,0 +1,11 @@
+package tads.fecha;
+
+public class Fechas {
+
+	public static String toString(Fecha fecha) {
+		String conFormato;
+		
+		return conFormato;
+	}
+
+}

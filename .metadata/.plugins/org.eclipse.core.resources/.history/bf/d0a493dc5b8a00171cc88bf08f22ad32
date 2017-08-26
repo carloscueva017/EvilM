@@ -1,0 +1,20 @@
+package tads;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Scanner s = new Scanner(System.in);
+		String nombre = s.nextInt();
+		
+		System.out.print("hola ");
+		System.out.print(nombre);
+		System.out.println();
+		
+		s.close();
+	}
+	
+	
+}

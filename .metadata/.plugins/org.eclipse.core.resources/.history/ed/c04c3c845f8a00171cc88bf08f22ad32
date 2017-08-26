@@ -1,0 +1,13 @@
+package tads;
+
+public class Fecha {
+
+	int año;
+	int mes;
+	int dia;
+
+	public Fecha(int año, int mes, int dia) {
+		año = año;
+	}
+
+}
